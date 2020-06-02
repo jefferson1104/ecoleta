@@ -1,9 +1,9 @@
 <h1 align="center">
-    Next Level Week by <img src="assets/img/rocketseat.svg">
+    Next Level Week by <img src="assets/rocketseat.svg">
     </h1>
   
   <p align="center">
-  <img width="250" src="assets/img/logo-nlw.svg">
+  <img width="250" src="assets/logo-nlw.svg">
 </p>
 
 _________
@@ -12,7 +12,7 @@ _________
 A NLW é uma experiência online criada pela Rocketseat de uma semana com muito conteúdo prático, desafios, hacks e um projeto que nos ajudam a avançar para o próximo nível e impulsionar a nossa carreira.
   
 ### ✨ Sobre o projeto:
-<img src="assets/img/logo.svg">
+<img src="assets/logo.svg">
 O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente.
   
 ### 👀 Meu aprendizado até aqui:
