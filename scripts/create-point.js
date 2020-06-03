@@ -11,7 +11,6 @@ function populateUFs() {
 
 populateUFs()
 
-
 function getCities(event) {
     const citySelect = document.querySelector("select[name=city]")
     const stateInput = document.querySelector("input[name=state]")
@@ -32,7 +31,6 @@ function getCities(event) {
         citySelect.disabled = false
     })
 }
-
 
 document
     .querySelector("select[name=uf]")
