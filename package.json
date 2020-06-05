@@ -1,0 +1,27 @@
+{
+  "name": "ecoleta",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">     Next Level Week by <img src=\"img/rocketseat.svg\">     </h1>",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefferson1104/ecoleta.git"
+  },
+  "keywords": [],
+  "author": "Jefferson Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefferson1104/ecoleta/issues"
+  },
+  "homepage": "https://github.com/jefferson1104/ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
