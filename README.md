@@ -25,20 +25,20 @@ O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas c
 
 <h2>Página inicial</h2>
 <h1 align="center">
-   <img width="800" height="600" src="img/ecoleta-home.png">
+   <img width="600" height="800" src="img/ecoleta-home.png">
 </h1>
 
 <h2>Página de cadastro</h2>
 <h1 align="center">
-  <img width="800" height="600" src="img/ecoleta-cadastro.png">
+  <img width="600" height="800" src="img/ecoleta-cadastro.png">
 </h1>
 
 <h2>Modal de pesquisa</h2>
 <h1 align="center">
-   <img width="800" height="600" src="img/ecoleta-modal-search.png">
+   <img width="600" height="800" src="img/ecoleta-modal-search.png">
 </h1>
 
 <h2>Página de pesquisa</h2>
 <h1 align="center">
-   <img width="800" height="600" src="img/ecoleta-search.png">
+   <img width="600" height="800" src="img/ecoleta-search.png">
 </h1>
