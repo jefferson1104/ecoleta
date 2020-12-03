@@ -1,7 +1,7 @@
 
 <img src="img/logo.svg">
 <br>
-### ✨ Sobre o projeto:
+### ✨ Sobre o projeto:<br>
 O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possível ajudar pessoas a encontrarem pontos de coleta de uma forma mais eficiente.
 
 ### ✨ Técnologias do projeto:
