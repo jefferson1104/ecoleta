@@ -2,10 +2,6 @@
   Next Level Week by <img src="img/rocketseat.svg">
 </h1>
   
-<p align="center">
-  <img width="250" src="img/logo-nlw.svg">
-</p>
-
 _________
 
 ### 🤔 Mas o que é isso? 
